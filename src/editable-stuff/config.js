@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Dominique",
   middleName: "",
   lastName: "Verellen",
-  message: " Interested in making things faster. ",
+  message: " Developing technologies to help people and businesses. ",
   icons: [
     {
       image: "fa-github",
@@ -88,24 +88,26 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "C/C++", value: 85 },    
+    { name: "SQL", value: 82 },
+    { name: "Java", value: 80 },
+    { name: "NoSQL", value: 75 },
+    { name: "AWS", value: 70 },
+    { name: "C#", value: 65 },    
+    { name: "Angular", value: 65 },
+    { name: "Python", value: 50 },
+    { name: "Docker", value: 40 },
+    { name: "Swift", value: 45 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
     { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Adaptability", value: 85 },
+    { name: "Creativity", value: 80 },
+    { name: "Goal-Oriented", value: 80 },    
+    { name: "Positivity", value: 75 },    
+    { name: "Problem Solving", value: 75 },    
+    { name: "Organization", value: 70 },    
   ],
 };
 
@@ -114,8 +116,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "dominique120@live.com",
 };
 
 const experiences = {
